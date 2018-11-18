@@ -272,5 +272,7 @@ Each zone is then assigned a binary code. The number of bits required to encode 
  
  ![Not Found!]( https://preview.ibb.co/cnbd70/image.png)
  
+  ![Not Found!]( https://preview.ibb.co/hZOGS0/image.png)
+ 
  
 
