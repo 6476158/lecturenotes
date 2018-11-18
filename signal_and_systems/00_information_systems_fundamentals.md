@@ -13,8 +13,7 @@ In 1956 the German computer scientist Karl Steinbuch coined the word Informatik
 > [ Informatik: Automatische Informationsverarbeitung ("Informatics:
 Automatic Information Processing")]
 
-The French term informatique was coined in
-1962 by Philippe Dreyfus
+The French term informatique was coined in 1962 by Philippe Dreyfus
 > [Dreyfus, Phillipe. L’informatique. Gestion, Paris, June 1962, pp.
 240–41]
 
@@ -125,3 +124,71 @@ The ways that organizations Store, Move Organize, Process their information.
 <a href="https://www.youtube.com/watch?v=Qujsd4vkqFI" target="_blank"><img src="http://img.youtube.com/vi/Qujsd4vkqFI/0.jpg" width="240" height="180" border="10" /></a> 
 <img src="https://preview.ibb.co/d8Z1uf/image.png" width="240" height="180" border="10" >
 <img src="https://preview.ibb.co/dkxt70/image.png" width="240" height="180" border="10" >
+
+### Information Technology
+Components that implement information systems,
+  - Hardware
+    >physical tools: computer and network hardware, but also low-tech things like pens and paper
+  - Software
+    >(changeable) instructions for the hardware
+  - People
+  - Procedures
+    >instructions for the people
+  - Data/databases
+  
+### Digital System
+Takes a set of discrete information ( inputs ) and discrete internal information ( system state ) and generates a set of discrete information ( outputs ).
+
+![Not Found!](https://image.ibb.co/imYi70/image.png)
+
+### A Digital Computer Example
+
+![Not Found!](https://preview.ibb.co/csOEfL/image.png)
+
+Signal
+===
+- An information variable represented by physical quantity.
+- For digital systems, the variable takes on discrete values.
+- Two level, or binary values are the most prevalent values in digital systems.
+- Binary values are represented abstractly by:
+  – digits 0 and 1
+  – words (symbols) False (F) and True (T)
+  – words (symbols) Low (L) and High (H)
+  – and words On and Off.
+- Binary values are represented by values or ranges of values of physical quantities
+
+![Not Found!](https://preview.ibb.co/g0Y2Zf/image.png) *A typical measurement system*
+
+### Transducers
+A “transducer” is a device that converts energy from one form to another. In signal processing applications, the purpose of energy
+conversion is to transfer information, not to transform energy. In physiological measurement systems, transducers may be
+- input transducers (or sensors)
+  - they convert a non-electrical energy into an electrical signal.
+  - for example, a microphone.
+  
+- output transducers (or actuators)
+  - they convert an electrical signal into a non-electrical energy.
+  - For example, a speaker.
+  
+### Analogue signal
+The analogue signal – a continuous variable defined with infinite precision - is converted to a discrete sequence of measured
+values which are represented digitally
+
+Information is lost in converting from analogue to digital, due to:
+- inaccuracies in the measurement
+- uncertainty in timing
+- limits on the duration of the measurement
+These effects are called quantisation errors
+
+### Digital signal
+The continuous analogue signal has to be held before it can be sampled
+
+![Not Found!](https://image.ibb.co/kyKFn0/image.png)
+
+Otherwise, the signal would be changing during the measurement Only after it has been held can the signal be measured, and the measurement converted to a digital value.
+
+![Not Found!](img src="https://image.ibb.co/d4tVLL/image2.png)
+
+### Signal Encoding: Analog-to Digital Conversion
+
+![Not Found!](https://preview.ibb.co/j3Tan0/image3.png)
