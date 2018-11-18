@@ -1,11 +1,12 @@
 Table of Contents
 ======
+- 
 
 Informatics
 ======
 Informatics is the study of the structure, behaviour, and interactions of natural and engineered computational systems. The term informatics broadly describes the study and practise of creating, storing, finding, manipulating and sharing information. Another definition, The term informatics broadly describes the study and practice of creating, storing, finding, manipulating and sharing information.
 
-### Etymology of Informatics
+## Etymology of Informatics
 In 1956 the German computer scientist Karl Steinbuch coined the word Informatik
 > [ Informatik: Automatische Informationsverarbeitung ("Informatics:
 Automatic Information Processing")]
@@ -17,7 +18,7 @@ The French term informatique was coined in
 
 The term was coined as a combination of information and automatic to describe the science of automating information interactions
 
-## Data - Information - Knowledge
+# Data - Information - Knowledge
 ### Data
 unprocessed facts and figures without any added interpretation or analysis. 
 
