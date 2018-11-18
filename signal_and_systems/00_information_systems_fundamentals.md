@@ -20,30 +20,31 @@ The French term informatique was coined in
 
 The term was coined as a combination of information and automatic to describe the science of automating information interactions
 
-# Data - Information - Knowledge
-### Data
+Data - Information - Knowledge
+======
+## Data
 unprocessed facts and figures without any added interpretation or analysis. 
 
  {The price of crude oil is $80 per barrel.}
 
-### Information
+## Information
 data that has been interpreted so that it has meaning for the user.
 
 {The price of crude oil has risen from $70 to $80 per barrel}
 > [gives meaning to the data and so is said to be information to someone who tracks oil prices.]
 
-### Knowledge
+## Knowledge
 a combination of information , experience and insight that may benefit the individual or the organisation.
 
 {When crude oil prices go up by $10 per barrel, it's likely that petrol prices will rise by 2p per litre.}
 >[ insight : the capacity to gain an accurate and deep understanding of someone or something; an accurate and deep understanding]
 
-### Converting data into information
+## Converting data into information
 ![Semantic description of image](https://image.ibb.co/g11YPf/test.png)
 
 - Data becomes information when it is applied to some purpose and adds value for the recipient.
 
->#### For example a set of raw sales figures is data .
+>### For example a set of raw sales figures is data .
 >For the Sales Manager tasked with solving a problem of poor sales in one region, or deciding the future focus of a sales drive, the raw
 data needs to be processed into a sales report . It is the sales report that provides information .
 
@@ -92,3 +93,6 @@ organisation.
 - The right information fuels the development of intellectual capital
 >which in turns drives innovation and performance
 improvement.
+
+System
+======
