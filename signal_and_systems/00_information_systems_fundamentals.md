@@ -189,6 +189,88 @@ Otherwise, the signal would be changing during the measurement Only after it has
 
 ![Not Found!](img src="https://image.ibb.co/d4tVLL/image2.png)
 
-### Signal Encoding: Analog-to Digital Conversion
+### Analog to Digital Conversion (ADC)
+ADC consists of four steps to digitize an analog signal:
+#### 1.Filtering
+Before we sample, we have to filter the signal to limit the maximum frequency of the signal as it affects the sampling rate. Filtering should ensure that we do not distort the signal, ie remove high frequency components that affect the signal shape.
+#### 2.Sampling
+The sampling results in a discrete set of digital numbers that represent measurements of the signal usually taken at equal intervals of time
+
+Sampling takes place after the hold. The hold circuit must be fast enough that the signal is not changing during the time the circuit is acquiring the signal value
+
+We don't know what we don't measure. In the process of measuring the signal, some information is lost
+
+Analog signal is sampled every TS secs. Ts is referred to as the sampling interval. fs = 1/Ts is called the sampling rate or sampling
+frequency.
+
+There are 3 sampling methods:
+  - There are 3 sampling methods:
+  - Natural - a pulse of short width with varying amplitude
+  - Flattop - sample and hold, like natural but with single amplitude value
+  
+The process is referred to as pulse amplitude modulation PAM and the outcome is a signal with analog (non integer) values  
+
+![Not Found!](https://preview.ibb.co/h2nh0L/image.png)
+
+Recovery of a sampled sine wave for different sampling rates
+
+![Not Found!](https://image.ibb.co/dKBguf/image.png)
+
+![Not Found!](https://preview.ibb.co/jJaKfL/image.png)
 
 ![Not Found!](https://preview.ibb.co/j3Tan0/image3.png)
+
+![Not Found!](https://image.ibb.co/gVhh0L/image.png)
+
+##### Sampling Theorem
+According to the Nyquist theorem, the sampling rate must be at least 2 times the highest frequency contained in the signal. ( Fs >= 2fm )
+
+Nyquist sampling rate for low-pass and bandpass signals
+
+![Not Found!](https://preview.ibb.co/fvi870/image.png)
+
+##### Sampling related concepts
+- Over/exact/under sampling
+- Regular/irregular sampling
+- Linear/Logarithmic sampling
+- Aliasing
+- Anti-aliasing filter
+- Image
+- Anti-image filter
+
+#### 3.Quantization
+Sampling results in a series of pulses of varying amplitude values ranging between two limits: a min and a max. The amplitude values are infinite between the two limits. We need to map the infinite amplitude values onto a finite set of known values. 
+
+![Not Found!](https://image.ibb.co/gh21S0/image.png)
+
+##### Quantization Levels
+The midpoint of each zone is assigned a value from 0 to L-1 (resulting in L values). Each sample falling in a zone is then          approximated to the value of the midpoint.
+
+##### Quantization Zones
+Assume we have a voltage signal with amplitutes Vmin=-20V and Vmax=+20V. We want to use L=8 quantization levels.
+Zone width D = (20 - -20)/8 = 5. The 8 zones are: -20 to -15, -15 to -10, -10 to -5, -5 to 0, 0 to +5, +5 to +10, +10 to
++15, +15 to +20. The midpoints are: -17.5, -12.5, -7.5, -2.5, 2.5, 7.5, 12.5, 17.5
+
+##### Assigning Codes to Zones
+Each zone is then assigned a binary code. The number of bits required to encode the zones, or the number of bits per sample as it is commonly referred to, is obtained as follows:
+ - nb = log2 L. Given our example, nb = 3. The 8 zone (or level) codes are therefore: 000, 001, 010, 011, 100, 101, 110, and 111. Assigning codes to zones: – 000 will refer to zone -20 to -15 – 001 to zone -15 to -10, etc.
+ - Assigning codes to zones: – 000 will refer to zone -20 to -15 – 001 to zone -15 to -10, etc.
+ 
+ ![Not Found!](https://preview.ibb.co/dCzn0L/image.png)
+ 
+ ##### Quantization Error
+ When a signal is quantized, we introduce an error – the coded signal is an approximation of the actual amplitude value.
+- The difference between actual and coded value (midpoint) is referred to as the quantization error.
+- The more zones, the smaller Delta which results in smaller errors.
+- BUT, the more zones the more bits required to encode the samples – higher bit rate
+
+ ![Not Found!](https://preview.ibb.co/kGkALL/image.png)
+ 
+ ##### Steps for digitization/reconstruction of a signal
+ 
+ ![Not Found!]( https://preview.ibb.co/dpAo70/image.png)
+ 
+ ![Not Found!]( https://preview.ibb.co/cnbd70/image.png)
+ 
+ 
+
