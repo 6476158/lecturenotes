@@ -38,3 +38,54 @@ a combination of information , experience and insight that may benefit the indiv
 ### Converting data into information
 ![Semantic description of image](https://image.ibb.co/g11YPf/test.png)
 
+- Data becomes information when it is applied to some purpose and adds value for the recipient.
+
+>#### For example a set of raw sales figures is data .
+>For the Sales Manager tasked with solving a problem of poor sales in one region, or deciding the future focus of a sales drive, the raw
+data needs to be processed into a sales report . It is the sales report that provides information .
+
+- Collecting data is expensive
+
+  - you need to be very clear about why you need it and how you plan to use it.
+  - One of the main reasons that organisations collect data is to monitor and improve performance.
+    - if you are to have the information you need for control and performance improvement, you need to:
+      - collect data on the indicators that really do affect performance
+      - collect data reliably and regularly
+      - be able to convert data into the information you need.
+ 
+- To be useful, data must satisfy a number of conditions. It must be:
+  - relevant to the specific purpose
+  - complete
+  - accurate
+  - timely
+    - data that arrives after you have made your decision is of no value
+  - in the right format
+    - information can only be analysed using a spreadsheet if all the data can be entered into the computer system
+  - available at a suitable price
+    - the benefits of the data must merit the cost of collecting or buying it.
+
+- The same criteria apply to information .
+  - It is important
+    - to get the right information
+    - to get the information right
+    
+- Ultimately the tremendous amount of information that is generated is only useful if it can be applied to create knowledge within the
+organisation.      
+
+- There is considerable blurring and confusion between the terms information and knowledge .
+
+- Think of knowledge as being of two types:
+  - Formal, explicit or generally available knowledge.
+    - This is knowledge that has been captured and used to develop policies and operating procedures for example.
+  - Instinctive, subconscious, tacit or hidden knowledge.
+    - Within the organisation there are certain people who hold specific knowledge or have the 'know how'
+      >{"I did something very similar to that last year and this happened….."}
+
+- Clearly, both types of knowledge are essential for the organisation.
+
+- Information on its own will not create a knowledge-based organisation
+>but it is a key building block.
+
+- The right information fuels the development of intellectual capital
+>which in turns drives innovation and performance
+improvement.
