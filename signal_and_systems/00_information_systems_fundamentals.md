@@ -40,7 +40,7 @@ a combination of information , experience and insight that may benefit the indiv
 >[ insight : the capacity to gain an accurate and deep understanding of someone or something; an accurate and deep understanding]
 
 ## Converting data into information
-![Semantic description of image](https://image.ibb.co/g11YPf/test.png)
+![Not Found!](https://image.ibb.co/g11YPf/test.png)
 
 - Data becomes information when it is applied to some purpose and adds value for the recipient.
 
@@ -96,3 +96,32 @@ improvement.
 
 System
 ======
+## Definition(s) of system
+A system can be broadly defined as an integrated set of elements that accomplish a defined objective. People from different engineering disciplines have different perspectives of what a "system" is. 
+
+For example, software engineers often refer to an integrated set of computer programs as a "system" electrical engineers might refer to complex integrated circuits or an integrated set of electrical units as a "system" As can be seen, "system" depends on one’s perspective, and the “integrated set of elements that accomplish a defined objective” is an appropriate definition.
+
+- A system is an assembly of parts where:
+  - The parts or components are connected together in an organized way.
+  - The parts or components are affected by being in the system (and are changed by leaving it).
+  - The assembly does something.
+  - The assembly has been identified by a person as being of special interest.
+- Any arrangement which involves the handling, processing or manipulation of resources of whatever type can be represented as a system.
+- A system is defined as multiple parts working together for a common purpose or goal.
+- Systems can be large and complex
+  >such as the air traffic control system or our global telecommunication network.
+- Small devices can also be considered as systems
+  >such as a pocket calculator, alarm clock, or 10-speed bicycle.
+- Systems have inputs , processes , and outputs .
+- When feedback (direct or indirect) is involved, that component is also important to the operation of the system.
+- To explain all this, systems are usually explained using a model .
+- A model helps to illustrate the major elements and their relationship.
+
+![Not Found!](https://preview.ibb.co/cZrd70/test.png) *A systems model*
+
+## Information Systems
+The ways that organizations Store, Move Organize, Process their information.
+
+<a href="https://www.youtube.com/watch?v=Qujsd4vkqFI" target="_blank"><img src="http://img.youtube.com/vi/Qujsd4vkqFI/0.jpg" width="240" height="180" border="10" /></a> 
+<img src="https://preview.ibb.co/d8Z1uf/image.png" width="240" height="180" border="10" >
+<img src="https://preview.ibb.co/dkxt70/image.png" width="240" height="180" border="10" >
