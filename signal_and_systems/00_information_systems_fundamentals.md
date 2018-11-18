@@ -8,7 +8,7 @@ Informatics
 ======
 Informatics is the study of the structure, behaviour, and interactions of natural and engineered computational systems. The term informatics broadly describes the study and practise of creating, storing, finding, manipulating and sharing information. Another definition, The term informatics broadly describes the study and practice of creating, storing, finding, manipulating and sharing information.
 
-## Etymology of Informatics
+### Etymology of Informatics
 In 1956 the German computer scientist Karl Steinbuch coined the word Informatik
 > [ Informatik: Automatische Informationsverarbeitung ("Informatics:
 Automatic Information Processing")]
@@ -22,24 +22,24 @@ The term was coined as a combination of information and automatic to describe th
 
 Data - Information - Knowledge
 ======
-## Data
+### Data
 unprocessed facts and figures without any added interpretation or analysis. 
 
  {The price of crude oil is $80 per barrel.}
 
-## Information
+### Information
 data that has been interpreted so that it has meaning for the user.
 
 {The price of crude oil has risen from $70 to $80 per barrel}
 > [gives meaning to the data and so is said to be information to someone who tracks oil prices.]
 
-## Knowledge
+### Knowledge
 a combination of information , experience and insight that may benefit the individual or the organisation.
 
 {When crude oil prices go up by $10 per barrel, it's likely that petrol prices will rise by 2p per litre.}
 >[ insight : the capacity to gain an accurate and deep understanding of someone or something; an accurate and deep understanding]
 
-## Converting data into information
+### Converting data into information
 ![Not Found!](https://image.ibb.co/g11YPf/test.png)
 
 - Data becomes information when it is applied to some purpose and adds value for the recipient.
@@ -96,7 +96,7 @@ improvement.
 
 System
 ======
-## Definition(s) of system
+### Definition(s) of system
 A system can be broadly defined as an integrated set of elements that accomplish a defined objective. People from different engineering disciplines have different perspectives of what a "system" is. 
 
 For example, software engineers often refer to an integrated set of computer programs as a "system" electrical engineers might refer to complex integrated circuits or an integrated set of electrical units as a "system" As can be seen, "system" depends on one’s perspective, and the “integrated set of elements that accomplish a defined objective” is an appropriate definition.
@@ -119,7 +119,7 @@ For example, software engineers often refer to an integrated set of computer pro
 
 ![Not Found!](https://preview.ibb.co/cZrd70/test.png) *A systems model*
 
-## Information Systems
+### Information Systems
 The ways that organizations Store, Move Organize, Process their information.
 
 <a href="https://www.youtube.com/watch?v=Qujsd4vkqFI" target="_blank"><img src="http://img.youtube.com/vi/Qujsd4vkqFI/0.jpg" width="240" height="180" border="10" /></a> 
