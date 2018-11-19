@@ -202,6 +202,9 @@ Otherwise, the signal would be changing during the measurement Only after it has
 
 
 ADC consists of four steps to digitize an analog signal:
+
+![Not Found!](img src="https://preview.ibb.co/iU16uf/image.png")
+
 #### 1.Filtering
 Before we sample, we have to filter the signal to limit the maximum frequency of the signal as it affects the sampling rate. Filtering should ensure that we do not distort the signal, ie remove high frequency components that affect the signal shape.
 #### 2.Sampling
