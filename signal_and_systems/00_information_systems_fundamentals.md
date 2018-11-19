@@ -218,7 +218,7 @@ Analog signal is sampled every TS secs. Ts is referred to as the sampling interv
 frequency.
 
 There are 3 sampling methods:
-  - There are 3 sampling methods:
+  - Ideal - an impulse at each sampling instant
   - Natural - a pulse of short width with varying amplitude
   - Flattop - sample and hold, like natural but with single amplitude value
   
