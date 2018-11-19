@@ -34,6 +34,18 @@ unprocessed facts and figures without any added interpretation or analysis.
 ### Information
 data that has been interpreted so that it has meaning for the user.
 
+Information Types
+- Numeric
+    - Must represent range of data needed
+    - Very desirable to represent data such that simple, straightforward computation for common arithmetic operations permitted
+    - Tight relation to binary numbers
+- Non-numeric
+    - Greater flexibility since arithmetic operations not applied.
+    - Not tied to binary numbers
+    
+    ![Not Found!](https://preview.ibb.co/fbNMuf/image.png)
+    
+
 {The price of crude oil has risen from $70 to $80 per barrel}
 > [gives meaning to the data and so is said to be information to someone who tracks oil prices.]
 
