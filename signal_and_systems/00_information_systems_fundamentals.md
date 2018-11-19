@@ -34,6 +34,9 @@ unprocessed facts and figures without any added interpretation or analysis.
 ### Information
 data that has been interpreted so that it has meaning for the user.
 
+{The price of crude oil has risen from $70 to $80 per barrel}
+> [gives meaning to the data and so is said to be information to someone who tracks oil prices.]
+
 Information Types
 - Numeric
     - Must represent range of data needed
@@ -45,9 +48,6 @@ Information Types
     
     ![Not Found!](https://preview.ibb.co/fbNMuf/image.png)
     
-
-{The price of crude oil has risen from $70 to $80 per barrel}
-> [gives meaning to the data and so is said to be information to someone who tracks oil prices.]
 
 ### Knowledge
 a combination of information , experience and insight that may benefit the individual or the organisation.
