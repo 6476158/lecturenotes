@@ -196,7 +196,7 @@ Otherwise, the signal would be changing during the measurement Only after it has
 
 ### Analog to Digital Conversion (ADC)
 
-<a href="https://www.youtube.com/watch?v=yWqrx08UeUs" target="_blank"><img src="http://img.youtube.com/vi/yWqrx08UeUs.jpg" width="240" height="180" border="10" /></a> 
+<a href="https://www.youtube.com/watch?v=yWqrx08UeUs" target="_blank"><img src="http://img.youtube.com/vi/yWqrx08UeUs/0.jpg" width="240" height="180" border="10" /></a> 
 <img src="https://preview.ibb.co/k7XCZf/2129.png" width="240" height="180" border="10" >
 <img src="https://preview.ibb.co/cFEFn0/2137.png" width="240" height="180" border="10" >
 
