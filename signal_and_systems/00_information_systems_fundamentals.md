@@ -3,6 +3,11 @@ Table of Contents
 - [Informatics](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#informatics)
 - [Data - Information - Knowledge](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#data---information---knowledge)
 
+- [System](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#system)
+
+- [Signal](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#signal)
+  - [Analog to Digital Conversion](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#analog-to-digital-conversion-adc)
+
 
 Informatics
 ======
@@ -190,6 +195,12 @@ Otherwise, the signal would be changing during the measurement Only after it has
 ![Not Found!](img src="https://image.ibb.co/d4tVLL/image2.png)
 
 ### Analog to Digital Conversion (ADC)
+
+<a href="https://www.youtube.com/watch?v=yWqrx08UeUs" target="_blank"><img src="http://img.youtube.com/vi/yWqrx08UeUs.jpg" width="240" height="180" border="10" /></a> 
+<img src="https://preview.ibb.co/k7XCZf/2129.png" width="240" height="180" border="10" >
+<img src="https://preview.ibb.co/cFEFn0/2137.png" width="240" height="180" border="10" >
+
+
 ADC consists of four steps to digitize an analog signal:
 #### 1.Filtering
 Before we sample, we have to filter the signal to limit the maximum frequency of the signal as it affects the sampling rate. Filtering should ensure that we do not distort the signal, ie remove high frequency components that affect the signal shape.
@@ -265,6 +276,8 @@ Each zone is then assigned a binary code. The number of bits required to encode 
 - BUT, the more zones the more bits required to encode the samples – higher bit rate
 
  ![Not Found!](https://preview.ibb.co/kGkALL/image.png)
+ 
+ #### 2.Binary encoding
  
  ##### Steps for digitization/reconstruction of a signal
  
