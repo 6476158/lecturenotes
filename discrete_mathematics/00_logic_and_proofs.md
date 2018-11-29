@@ -1,7 +1,7 @@
 Table of Contents
 ======
 - [What is discrete mathematics](https://github.com/6476158/lecturenotes/blob/master/discrete_mathematics/00_logic_and_proofs.md#what-is-discrete-mathematics)
-- [Data - Information - Knowledge](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#data---information---knowledge)
+- [1.1 Propositional Logic](https://github.com/6476158/lecturenotes/blob/master/discrete_mathematics/00_logic_and_proofs.md#11-propositional-logic)
 
 - [System](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#system)
 
