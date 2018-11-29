@@ -1,3 +1,13 @@
+Table of Contents
+======
+- [What is discrete mathematics](https://github.com/6476158/lecturenotes/blob/master/discrete_mathematics/00_logic_and_proofs.md#what-is-discrete-mathematics)
+- [Data - Information - Knowledge](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#data---information---knowledge)
+
+- [System](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#system)
+
+- [Signal](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#signal)
+  - [Analog to Digital Conversion](https://github.com/6476158/lecturenotes/blob/master/signal_and_systems/00_information_systems_fundamentals.md#analog-to-digital-conversion-adc)
+
 ### What is discrete mathematics? 
 
 Discrete mathematics is the part of mathematics devoted to the study of discrete objects. (Here discrete means consisting of distinct or unconnected elements.) The kinds of problems solved using discrete mathematics include:
@@ -15,6 +25,8 @@ Discrete mathematics is the part of mathematics devoted to the study of discrete
  - How many valid Internet addresses are there?
  
 More generally, discrete mathematics is used whenever objects are counted, when relationships between ﬁnite (or countable) sets are studied, and when processes involving a ﬁnite number of steps are analyzed. A key reason for the growth in the importance of discrete mathematics is that information is stored and manipulated by computing machines in a discrete fashion.
+
+## 1.1 Propositional Logic
 
 ![Not Found!](https://github.com/osemrt/CS-Notes/blob/master/discrete_mathematics/textbook/img/291118-02.png?raw=true)
 
